@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-end`**
 
-Olá, Me chamo Álvaro César Barbosa Da Silva. Sou estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU, apaixonado por tecnologia e sempre em busca de novos conhecimentos. Sou dedicado, estudioso e comprometido com tudo o que faço. Tenho facilidade em aprender, gosto de desafios e estou sempre disposto a evoluir tanto pessoal quanto profissionalmente. Acredito que a tecnologia pode transformar vidas, e por isso estou construindo minha carreira com foco, disciplina e vontade de crescer.
+Olá, Me chamo Álvaro César Barbosa Da Silva. Sou estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU, Sempre em busca de novos conhecimentos. Sou comprometido com tudo o que faço! Tenho facilidade em aprender, gosto de desafios e estou sempre disposto a evoluir tanto pessoal quanto profissionalmente. Acredito que a tecnologia pode transformar vidas, e por isso estou construindo minha carreira com foco, disciplina e vontade de crescer.
 
 ---
 
