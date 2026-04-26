@@ -64,17 +64,27 @@ Olá, Me chamo Álvaro César Barbosa Da Silva. Sou estudante de Análise e Dese
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
 />
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    />
+    
 <br/>
 <br/>
 ## 📊 Estatísticas
 
 <p align="center">
   <img 
-    height="180" 
+    width="48%" 
+    style="margin-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=ALVAR0DEVV&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
   <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALVAR0DEVV&theme=tokyonight&layout=compact" 
+    width="43%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALVAR0DEVV&theme=tokyonight&layout=compact&locale=pt-br" 
   />
 </p>
