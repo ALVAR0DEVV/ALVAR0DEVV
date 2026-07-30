@@ -77,4 +77,4 @@ Olá, Me chamo Álvaro César Barbosa Da Silva. Sou estudante de Análise e Dese
 <br/>
 ## 📊 Estatísticas
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ALVAR0DEVV&theme=tokyonight&include_all_commits=true)]
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ALVAR0DEVV&show_icons=true&theme=tokyonight&include_all_commits=true)]
