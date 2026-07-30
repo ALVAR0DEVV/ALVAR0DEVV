@@ -80,7 +80,6 @@ Olá, Me chamo Álvaro César Barbosa Da Silva. Sou estudante de Análise e Dese
 <img 
     align="left"
     alt="GitHub Stats"
-    style="padding-right: 10px;"
     height="200"
     style="padding-right: 10px;"
     src="https://github-stats-extended.vercel.app/api?username=ALVAR0DEVV&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
