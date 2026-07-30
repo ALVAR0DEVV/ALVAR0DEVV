@@ -75,7 +75,7 @@ Olá, Me chamo Álvaro César Barbosa Da Silva. Sou estudante de Análise e Dese
     
 <br/>
 <br/>
-# 📊 Estatísticas
+### 📊 Estatísticas
 
 <img 
     align="left"
