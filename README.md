@@ -94,3 +94,4 @@ Olá, Me chamo Álvaro César Barbosa Da Silva. Sou estudante de Análise e Dese
     style="padding-right: 10px;"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/stats-organization/github-stats-extended" 
     />
+    [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/stats-organization/github-stats-extended)
