@@ -91,4 +91,4 @@ Olá, Me chamo Álvaro César Barbosa Da Silva. Sou estudante de Análise e Dese
         style="padding-right: 10px;" 
         src="https://github-stats-extended.vercel.app/api/top-langs/?username=ALVAR0DEVV&theme=tokyonight&custom_title=Tecnologias&hide_border=true&layout=compact_height=200"
         />
-        https://github-stats-extended.vercel.app/api/top-langs/?username=ALVAR0DEVV&theme=tokyonight&custom_title=Tecnologias&hide_border=true&layout=compact_height=200
+        ![](https://github-stats-extended.vercel.app/api/top-langs/?username=ALVAR0DEVV&theme=tokyonight&custom_title=Tecnologias&hide_border=true&layout=compact_height=200)
