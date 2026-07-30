@@ -92,5 +92,5 @@ Olá, Me chamo Álvaro César Barbosa Da Silva. Sou estudante de Análise e Dese
     title="React" 
     height="200" 
     style="padding-right: 10px;"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5" 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ALVAR0DEVV" 
     />
